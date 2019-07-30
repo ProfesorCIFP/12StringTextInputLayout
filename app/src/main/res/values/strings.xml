@@ -1,0 +1,8 @@
+<resources>
+    <string name="nombre">Introduce tu nombre...</string>
+    <string name="contrasena">Introduce la Contraseña...</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="app_name">12StringTextInputLayout</string>
+    <string name="ErrorCampoVacio">ERROR: Campo obligatorio.</string>
+</resources>

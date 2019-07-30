@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">12StringTextInputLayout</string>
+    <string name="cancelar">Cancel</string>
+    <string name="contrasena">Enter your Password</string>
+    <string name="ingresar">Login</string>
+    <string name="nombre">Enter your name...</string>
+    <string name="ErrorCampoVacio">ERROR: Obligatory field</string>
+</resources>
